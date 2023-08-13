@@ -1,14 +1,17 @@
-<svg height="24" viewBox="0 0 24 24.000001" width="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <filter id="a" color-interpolation-filters="sRGB" height="1.39486" width="1.311082" x="-.155541" y="-.19743">
-    <feGaussianBlur stdDeviation="1.2313672" />
+<svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a-8" x="-.36663" y="-.24372" width="1.7333" height="1.4874" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.2190623"/>
   </filter>
-  <g transform="matrix(.96344673 0 0 .96344673 -123.36427 -955.289756)">
-    <path d="m132.5 995.4062c-.831 0-1.5 1.5-1.5 1.5s.669 1.5 1.5 1.5h7.6875c-.25613.088-.47997.2851-.59375.5313l-3 6c-.2396.5108.0576 1.1992.59375 1.375l1.8125.625v2.4375c.00005.5236.47642 1 1 1h1c.52358 0 .99995-.4764 1-1v-2.4375l1.8125-.625c.53611-.1758.83335-.8642.59375-1.375l-3-6c-.13219-.2754-.39056-.4647-.6875-.5313h7.78125c.831 0 1.5-1.5 1.5-1.5s-.669-1.5-1.5-1.5z" filter="url(#a)" opacity=".2" />
-    <path d="m140.3125 997.375c-.31022.06-.58621.2757-.71875.5625l-3 6c-.2396.5108.0576 1.1992.59375 1.375l1.8125.625v2.4375c.00005.5236.47642 1 1 1h1c.52358 0 .99995-.4764 1-1v-2.4375l1.8125-.625c.53611-.1758.83335-.8642.59375-1.375l-3-6c-.17625-.3672-.59466-.6026-1-.5625-.0312-.001-.0625-.001-.0937 0z" fill="#fff" />
-    <path d="m140.5 998.375-3 6 2.5.8437v3.1563h1v-3.1563l2.5-.8437z" fill="#1a1a1a" />
-    <g transform="rotate(-90)">
-      <rect fill="#fff" height="18.999969" rx="1.43934" ry="1.5" width="3.049988" x="-997.41217" y="131.00003" />
-      <path d="m-996.41217 132.00003h1v16.999969h-1z" fill="#1a1a1a" />
-    </g>
-  </g>
+ </defs>
+ <filter id="a" x="-.36663" y="-.24372" width="1.7333" height="1.4874" color-interpolation-filters="sRGB">
+  <feGaussianBlur stdDeviation="1.2190623"/>
+ </filter>
+ <filter id="b" x="-.15562" y="-.9856" width="1.3112" height="2.9712" color-interpolation-filters="sRGB">
+  <feGaussianBlur stdDeviation="1.232"/>
+ </filter>
+ <g>
+  <path transform="matrix(1.3931 0 0 -1.3036 -253.39 1341.6)" d="m190 1015.4c-0.52358 0-0.99995 0.4764-1 1v2.4375l-1.8125 0.625c-0.53615 0.1758-0.83335 0.8642-0.59375 1.375l3 6c0.13254 0.2868 0.40853 0.5028 0.71875 0.5625 0.0312 1e-3 0.0625 1e-3 0.0937 0 0.40534 0.04 0.82375-0.1953 1-0.5625l3-6c0.2396-0.5108-0.0576-1.1992-0.59375-1.375l-1.8125-0.625v-2.4375c-5e-5 -0.5236-0.47642-1-1-1h-1z" filter="url(#a-8)" opacity=".2" stroke-width=".71483"/>
+  <path d="m12 4.3696-4.5205 8.4255 3.767 1.185v4.432h1.5068v-4.432l3.7671-1.185z" fill="#1a1a1a" stroke="#fff" stroke-linejoin="round" stroke-width="1.5" style="paint-order:stroke fill markers"/>
+ </g>
 </svg>
