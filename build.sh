@@ -136,7 +136,7 @@ function assemble {
   BASE_DIR="$DIST/$variant"
   OUTPUT_DIR="$BASE_DIR/cursors"
   INDEX_FILE="$BASE_DIR/index.theme"
-  THEME_NAME="Capitaine Cursors"
+  THEME_NAME="Cusitaine Cursors"
 
   case "$variant" in
     dark) THEME_NAME="$THEME_NAME" ;;
@@ -179,7 +179,7 @@ function assemble {
 }
 
 function show_usage {
-  echo -e "This script builds the capitaine-cursor theme.\n"
+  echo -e "This script builds the cusitaine-cursor theme.\n"
   echo -e "Usage: ./build.sh [ -d DPI ] [ -t VARIANT ] [ -p PLATFORM ]"
   echo -e "  -h, --help\t\tPrint this help"
   echo -e "  -d, --max-dpi\t\tSet the max DPI to render. Higher values take longer."
