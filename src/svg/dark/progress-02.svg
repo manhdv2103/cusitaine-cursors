@@ -12,7 +12,7 @@
   <path d="m3.993 14.139v-12.142l8.3474 8.7268-2.934 1.4857 0.69222 3.8663-0.79359 0.33936-2.1759-3.1988z" fill="#1a1a1a"/>
  </g>
  <ellipse cx="15.702" cy="13.116" rx="6.3421" ry="6.3419" fill="#fff" fill-rule="evenodd" stroke-width=".45454"/>
- <g transform="matrix(.60888 .35154 -.35154 .60888 12.813 1.2328)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4223">
+ <g transform="matrix(.60888 .35154 -.35154 .60888 12.813 1.2328)" fill="#006aff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4223">
   <path d="m5.125 12.592c0 3.786 3.089 6.875 6.875 6.875 3.3162 0 6.0971-2.3696 6.7363-5.502l-1.7832-0.89258c-0.23945 2.5319-2.3558 4.4941-4.9531 4.4941-1.2807 0-2.4445-0.47624-3.3242-1.2637l0.77539-1.5488-2.3281-1.1621-0.55664-0.2793z" color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
   <path d="m18.893 12.574c0-3.786-3.089-6.875-6.875-6.875-3.3162 0-6.0971 2.3696-6.7363 5.502l1.7832 0.89258c0.23945-2.5319 2.3558-4.4941 4.9531-4.4941 1.2807 0 2.4445 0.47624 3.3242 1.2637l-0.77539 1.5488 2.3281 1.1621 0.55664 0.2793z" color="#000000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
  </g>
