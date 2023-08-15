@@ -1,4 +1,10 @@
-# Capitaine cursors
+# Cusitaine (CUStom capITANE) cursors
+
+This is a custom x-cursor theme based on the capitaine cursors theme. I only make changes to the dark variant because that's what I use (sorry).
+
+Original:
+
+---
 
 This is an x-cursor theme inspired by macOS and based on KDE Breeze.
 The source files were made in Inkscape, and the theme was designed to pair well with my icon pack, [La Capitaine][la-capitaine-icons].
