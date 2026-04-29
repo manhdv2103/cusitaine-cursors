@@ -1,4 +1,4 @@
-# Cusitaine (CUStom capITANE) cursors
+# Cusitaine (CUStom capITAINE) cursors
 
 This is a custom x-cursor theme based on the capitaine cursors theme. I only make changes to the dark variant because that's what I use (sorry).
 
